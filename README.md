@@ -15,9 +15,9 @@
 -----
 
 **Rules**
-[x] It should not be possible to register an account with an existing CPF
-[x] It must not be possible to deposit into a non-existing account.
-[x] It should not be possible to fetch a statement from a non-existing account
-[x] It must not be possible to withdraw from a non-existing account.
-[x] It must not be possible to delete a non-existing account
-[x] It must not be possible to withdraw when the balance is insufficient
+- [x] It should not be possible to register an account with an existing CPF
+- [x] It must not be possible to deposit into a non-existing account.
+- [x] It should not be possible to fetch a statement from a non-existing account
+- [x] It must not be possible to withdraw from a non-existing account.
+- [x] It must not be possible to delete a non-existing account
+- [x] It must not be possible to withdraw when the balance is insufficient
